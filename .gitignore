@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+.venv/
+env/
+ENV/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+*.local
+
+# Environment variables
+.env
+*.env
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Test & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Dynamic Runtime Uploads & Reports
+
+# Local virtual environments
+**/venv/
+**/.venv/
+**/env/
+**/ENV/
